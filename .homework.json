@@ -1,0 +1,12 @@
+{
+    "name": "javascript-variables-worksheet",
+    "version": "0.0.1",
+    "title": "JavaScript Variables Worksheet",
+    "description": "Practice working with JavaScript variables.",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript"
+    ]
+}
